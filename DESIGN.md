@@ -38,14 +38,14 @@ visual direction — read and preserve them on every subsequent build; do not
 re-derive a new direction. The first UI pass must fill these fields in as
 part of that build, not leave them as an empty template.
 
-- Product mode: `operate` | `read` | `persuade` | `experience`
-- Audience and cadence:
-- Visual world (name + the feeling it creates):
-- Palette family + neutral undertone:
-- Type treatment:
-- Composition:
-- Shape language:
-- Anti-references (defaults this app must not drift toward):
+- Product mode: `operate`
+- Audience and cadence: employees checking attendance, leave and payslips several times a week on a phone.
+- Visual world (name + the feeling it creates): Inaivo HRMS, a calm navy-and-blue enterprise mobile app that feels trustworthy and light.
+- Palette family + neutral undertone: navy #1A2B4B, blue #2563EB, status green/amber/red; cool gray (#F9FAFB, #E5E7EB) neutrals.
+- Type treatment: Roboto; bold 18px headers, 10-11px uppercase labels, 14px body.
+- Composition: single 480px-max mobile column, white sticky header, rounded cards, fixed bottom nav with a center plus button.
+- Shape language: 16-24px card radii, pill status badges, 12px inputs, 16px buttons.
+- Anti-references (defaults this app must not drift toward): gray SaaS dashboards, dense desktop tables, web-style sidebars.
 
 ## Agent-Native is structural, not visual
 
